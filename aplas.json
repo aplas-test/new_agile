@@ -1,20 +1,24 @@
 {
-  "id": "new_agile",
-  "name": "New Agile",
-  "categoryId": "support",
-  "description": "Persevering solution-oriented synergy",
-  "investment_24m": "460",
-  "hostedtype": "OnPremise",
-  "licensing_cost": "170",
-  "status_color": "#FF0000",
-  "type": "InHouseDev",
-  "support_cost": "203",
-  "deployment_date": "5/11/03",
-  "end_of_maintenance": "2/10/17",
-  "department": "Research and Development",
-  "status": "Decomissioned",
-  "end_of_life": "6/5/20",
-  "months_to_renew_support": "5",
-  "sme_email": "Gusella.Thunnerclef@memento.net.au",
-  "investment_number": "87"
+  "applications": [
+    {
+      "id": "new_agile",
+      "name": "New Agile",
+      "categoryId": "support",
+      "description": "Persevering solution-oriented synergy",
+      "investment_24m": "460",
+      "hostedtype": "OnPremise",
+      "licensing_cost": "170",
+      "status_color": "#FF0000",
+      "type": "InHouseDev",
+      "support_cost": "203",
+      "deployment_date": "5/11/03",
+      "end_of_maintenance": "2/10/17",
+      "department": "Research and Development",
+      "status": "Decomissioned",
+      "end_of_life": "6/5/20",
+      "months_to_renew_support": "5",
+      "sme_email": "Gusella.Thunnerclef@memento.net.au",
+      "investment_number": "87"
+    }
+  ]
 }
