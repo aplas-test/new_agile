@@ -18,7 +18,28 @@
       "end_of_life": "6/5/20",
       "months_to_renew_support": "5",
       "sme_email": "Gusella.Thunnerclef@memento.net.au",
-      "investment_number": "87"
+      "investment_number": "87",
+      "integrations": [
+        {
+          "id": "int-300",
+          "name": "INT-300",
+          "categoryId": "f584fe23-c532-404a-bf69-4bcbcea094d3",
+          "description": "Integer tincidunt ante vel ipsum.",
+          "sourceApplicationId": "new_agile",
+          "targetApplicationId": "fulfilment_science",
+          "logical_server": "ONLINE",
+          "status_color": "#00FF00",
+          "pattern": "Sync Request-Reply",
+          "golive_date": "10/6/08",
+          "sme_name": "Maridel Finlan",
+          "datacentre": "Dandenong",
+          "department": "Integration",
+          "status": "Active",
+          "sme_email": "mfinlan9@memento.net.au",
+          "complexity": "High",
+          "last_deployment_date": "16/11/16"
+        }
+      ]
     }
   ]
 }
