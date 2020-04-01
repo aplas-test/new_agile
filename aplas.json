@@ -25,7 +25,6 @@
           "name": "INT-300",
           "categoryId": "f584fe23-c532-404a-bf69-4bcbcea094d3",
           "description": "Integer tincidunt ante vel ipsum.",
-          "sourceApplicationId": "new_agile",
           "targetApplicationId": "fulfilment_science",
           "logical_server": "ONLINE",
           "status_color": "#00FF00",
